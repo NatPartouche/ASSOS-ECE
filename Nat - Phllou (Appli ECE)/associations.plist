@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Gala ECE</string>
+		<key>Description</key>
+		<string>Qu&apos;est-ce que le Gala ?
+
+Le Gala ECE est l&apos;association qui organise tous les deux ans la plus grande et mémorable des soirées étudiantes de l&apos;ECE.
+
+Pendant deux ans, de nombreux étudiants de chaque promotion travaillent sur ce projet pour vous offrir une soirée de rêve. Ainsi, l&apos;an dernier, l&apos;association comptait plus de 70 membres motivés.
+
+Les Responsables de l&apos;association sont formés par des professionnels dans tous les domaines indispensables à l&apos;organisation d&apos;un tel événement : Formation en droit, management, gestion de projet, communication et finance. De même, les membres sont encadrés, formés et fortement impliqués.
+
+Le Gala s&apos;organise autour de 4 grands pôles : La Logistique s&apos;occupe de la gestion du temps, des personnes et du matériel, l&apos;Animation responsable du son et des divertissements, la Communication fait la promotion de la soirée et le Sponsoring chargé de trouver les partenaires.
+
+Professionnalisme, Efficacité et Convivialité sont les maîtres mots de l&apos;association.
+        
+            
+gala.ece.fr ou envoie nous un mail à gala@ece.fr si jamais tu as besoin de renseignements !</string>
+		<key>Type</key>
+		<string>Association</string>
+		<key>Image</key>
+		<string>logoGala.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Club Poker</string>
+		<key>Description</key>
+		<string>Le club poker ECE organise régulièrement des parties de poker entre ses membres, ainsi que quelques fois par ans des tournois avec de nombreux lots à la clé.</string>
+		<key>Type</key>
+		<string>Club</string>
+		<key>Image</key>
+		<string>logoCLUBPOKER.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>BDE</string>
+		<key>Description</key>
+		<string>
+Le BDE, alias bureau des élèves est l&apos;association qui s&apos;occupe de toi et te vend du rêve !
+Au programme, de doux petits dej, des pots sucrés et salés, des repas de promos déjantés suivant un calendrier bien rythmé, mais évidemment aussi de quoi boire, lors de chaque afterwork tous les mois, des entrées gratuites en boite deux fois par semaine, et surtout, des soirées jackgantuesques !!!
+
+Egalement une tonne de bons plans, qu&apos;on vous incite à découvrir, ainsi que des voyages à l&apos;étranger, souvenirs imprimés dans le yearbook !
+Mais aussi et surtout... La Quinzaine des Art, QDA pour les intimes, the évènement culturel de l&apos;année les deux premières semaines de février, avec un thème des plus artistiques...
+Et si tout ça vous sauce, n&apos;hésitez pas à monter votre liste dès le mois de septembre, car en mars a lieu la campagne BDE, soit 3 jours de PURE FOLIE durant lesquels les listes BDE s&apos;affrontent en beauté pour élire le prochain bureau des élèves !
+D&apos;ici là, suivez notre actualité, et si vous vous ennuyez en cours, passez manger des bonbons au local !
+</string>
+		<key>Type</key>
+		<string>Association</string>
+		<key>Image</key>
+		<string>logoBDE.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>EVENT</string>
+		<key>Description</key>
+		<string>
+Créée l’année dernière, ECE Event est l’association événementielle de l’ECE. Elle a pour principal but de valoriser la vie associative de l’école et de promouvoir les différents événements associatifs en apportant un support créatif et logistique aux associations.
+
+ ECE Event souhaite également montrer la force de l’ECE à l’extérieur, grâce à la création de la mascotte ELMAR et aux différentes participations aux événements sportifs étudiants.
+
+ Ainsi plusieurs grands projets ont été établis pour cette année :
+
+Un support créatif
+
+ECE Event propose aux différentes associations des prix défiant toute concurrence pour l’achat d’affiches ainsi que les brillants talents de ses graphistes pour la création d’affiches.
+
+Graphistes dans l’âme ou ayant des talents artistiques, nous vous attendons nombreux pour rejoindre notre Equipe Créa’ !
+
+
+
+Une équipe de PomPom Girls et des Supporters de folie ! 
+
+Un de nos grands projets est d’être le plus présent possible lors des évènements sportifs. Pour cela, nous avons créé une équipe de PomPom Girls surmotivées qui ont fait leur première grosse représentation lors du Challenge Du Monde des Grandes Ecoles 2011 ! Des vuvuzelas, sifflets et cornes de brumes et surtout une bonne bande de Supporters sont venus encourager les sportifs et les PomPoms ! Nous espérons vous voir nombreux sur les prochains évènements à venir !
+
+
+Une fanfare ! 
+Une grande nouveauté jamais tentée à l’ECE et réalisable grâce à vous est la création d’une fanfare présente lors des événements sportifs pour mettre l’ambiance dans les stades.
+
+A tous les trompettistes, saxophonistes, chef d’orchestre , joueurs de djembés ou même de triangle, contactez-nous pour faire partie de l’aventure !
+
+ 
+Un Bal de Promo ! 
+
+ECE Event vous concocte également un Bal de Promo à l’Américaine comme vous en avez toujours rêvé ! Celui-ci sera réservé aux Ing4, moment idéal pour marquer la vie étudiante avant le départ de certains étudiants à l’étranger en Ing5.
+
+L’année 2011-2012 s’annonce riche en événements !
+
+Nous avons besoin de vous, donc n’hésitez pas à nous rejoindre dès la rentrée !
+</string>
+		<key>Type</key>
+		<string>Association</string>
+		<key>Image</key>
+		<string>logoEVENT.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>ITEAM</string>
+		<key>Description</key>
+		<string>L&apos;iTeam est l&apos;association ECE de promotion des logiciels libre, sécurité informatique et administre son propre réseaux. Nous organisons tout au long de l&apos;année des formations et participons à des évènement tel que le Salon Solution Linux, des conférences de User Group (groupe d&apos;utilisateur professionnel) autour des technologies d&apos;Android et de Google notamment, et un partenariat récent avec Eyrolles nous permet d&apos;avoir notre propre bibliothèque iTeamienne. Notre slogan ? Open your mind. Retrouvez nous sur notre site internet http://iteam.org</string>
+		<key>Type</key>
+		<string>Association</string>
+		<key>Image</key>
+		<string>logoITEAM.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>No Larsen</string>
+		<key>Description</key>
+		<string>No Larsen est l&apos;association Son et Lumières de l&apos;ECE Paris. Elle regroupe les passionnés de musique et amateurs de sons de tous les bords. Décomposée en plusieurs pôles d&apos;activités nous proposons des cours de musique acoustique, électronique où même des cours de sonorisation. No Larsen est un association toujours en expansion comme pourrait en témoigner la création récente de la radio de l&apos;école. Visitez notre site web : http://nolarsen.ece.fr ou écoutez notre radio : http://nolarsen.ece.fr/radio   </string>
+		<key>Type</key>
+		<string>Association</string>
+		<key>Image</key>
+		<string>logoNOLARSEN.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>SDI Wake Up</string>
+		<key>Description</key>
+		<string>
+	Le SDI (Séminaire D&apos;Intégration) est l’ association de l&apos;école qui organise le week-end d’intégration assurant ainsi la bonne insertion et l’implication de chaque étudiant au sein des différentes promotions par l&apos;intermédiaire d&apos;animations, d&apos;activités et de soirées, encadrées par l&apos;équipe SDI, le staff associatif et l&apos;administration. 
+</string>
+		<key>Type</key>
+		<string>Association</string>
+		<key>Image</key>
+		<string>logoSDI.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>BDS</string>
+		<key>Description</key>
+		<string> Le B.D.S (Bureau Des Sports) est ton association sportive de référence à l&apos;école. Plusieurs sports s&apos;offrent à toi: Football, Rugby, Handball, Volleyball, Basketball, Athlétisme sans oublier le Tennis! Les entraînements se déroulent le Lundi et les matchs le Jeudi après-midi. Un sport te plaît? Fille ou garçon, peu importe ton niveau, que tu en es fait en club ou pas, rejoins nous dès maintenant en nous contactant par mail à bds-bureaux@ece.fr ou passes nous voir directement au local! 
+De plus, ton B.D.S t&apos;a concocté d&apos;autres évènements sportifs pour remplir ton agenda: un séjour au ski d&apos;une semaine du 18 au 25 février 2012, le semi marathon de Paris qui se déroulera le 4 mars prochain, une après-midi karting et paintball ainsi que de prestigieux tournoi de fin d&apos;année tels que le T.O.S.S, le C.D.M.G.E, le T5B ou encore le tournoi de Clairefontaine.
+
+Enfin, tu pourras également nous rencontrer lors de pots organisés au sein de l&apos;école. A très vite pour des moments riches en sport.
+</string>
+		<key>Type</key>
+		<string>Association</string>
+		<key>Image</key>
+		<string>logoBDS.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Job Servic&apos;ECE</string>
+		<key>Description</key>
+		<string>JobServic&apos;ECE est une association chargée de trouver des petits-boulots aux étudiants. Menée par une    vingtaine d&apos;étudiants, elle permet aux entreprises d&apos;obtenir sous 48h de jeunes employés pour des missions de courte durée, ponctuelles ou régulières. </string>
+		<key>Type</key>
+		<string>Association</string>
+		<key>Image</key>
+		<string>logoJobservic&apos;ECE.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Débats@ECE</string>
+		<key>Description</key>
+		<string> Débats at ECE est une association qui a pour but d&apos;organiser toute les 2 semaines des débats d&apos;actualité, ainsi qu&apos;une fois dans l&apos;année un grand débat. 
+Les petits débats qui se déroule toute les 2 semaines réunissent entre 20 et 30 étudiants, dure un peu plus d&apos;une heure et sont suivit d&apos;un pot. 
+Ces &quot;débats d&apos;actu&quot; invite de temps en temps des personnalités ou des experts sur l&apos;un des sujets abordé.
+Il n&apos;y a qu&apos;un grand débats par ans, environ 300 personnes et des personnalités importante sont présente. 
+L’un des objectifs est de développer l’intérêt des étudiants aux mondes politique, économique, culturel et social. 
+
+Débats at ECE est une association étudiante apolitique, elle encourage la diversité d’opinions. </string>
+		<key>Type</key>
+		<string>Association</string>
+		<key>Image</key>
+		<string>logoDEBATS.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>JBTV</string>
+		<key>Description</key>
+		<string>La JBTV est l’association audiovisuelle, et médias numériques de l’École. Elle s’occupe de la totalité des reportages, tournages et montages des associations, et couvre en photos les événements importants de l’École.
+Notre vocation est de couvrir les différents événements concernant la vie de l’École : séminaires d’intégration, remise des diplômes, soirées et conférences. Nous prenons de nombreuses photos qui sont ensuite diffusées sur notre site Internet. De plus, pour les événements importants, nous réalisons des films, diffusés auprès des élèves sous forme de DVDs vidéo et disponibles en ligne.
+
+Le deuxième volet de notre activité consiste à diffuser des clips, des bandes annonces et les spots d’information des associations, sur les trois écrans plasma de l’École. Bien sûr, nous disposons de nombreux talents, ce qui nous permet de proposer nos services aux autres associations de l’École. A titre d’exemples, nous réalisons des flyers, logos, affiches, etc.
+
+
+Enfin, l’association a comme grand projet de réaliser de plus en plus de contrats professionnels avec des sociétés.L’argent gagné doit nous permettre de renouveler notre matériel et d’organiser de grands événements.
+
+Retrouvez nous sur jbtv.ece.fr</string>
+		<key>Type</key>
+		<string>Association</string>
+		<key>Image</key>
+		<string>logoJBTV.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>YACHT CLUB</string>
+		<key>Description</key>
+		<string> Le Yacht Club est l’association voile de l’ECE Paris, école d’ingénieurs. Fondée en 1994, elle permet à tous les élèves de l’école de découvrir et de pratiquer la voile durant toute l’année scolaire.Fort de son expérience et des ses membres toujours motivés, elle parvient chaque année à participer à de grands évènements nautiques et à en organiser.
+Retrouvez nous sur yachtclub.ece.fr ! </string>
+		<key>Type</key>
+		<string>Association</string>
+		<key>Image</key>
+		<string>logoYACHTCLUB.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>ECE International</string>
+		<key>Description</key>
+		<string>
+Tu aimes voyager, découvrir de nouvelles cultures, apprendre de nouvelles langues, partager ton savoir avec des personnes provenant des quatre coins du monde, ECE International est faite pour toi !
+
+Cette association est chargée de promouvoir les différentes cultures présentent au sein de notre école. Comme beaucoup l’ignore encore, tous les ans, l’ECE accueille de nombreux étudiants étrangers (dans le cadre d’échange universitaire). ECE International est la pour parrainer ces étudiants en les aidant à s’intégrer au mieux à la vie parisienne et plus précisément à la vie d’éléctrocentralien.
+
+ECE International accompagne également les étudiants de l’ECE lors de leurs semestres à l’étranger (Concordia, UCI, Aalborg…) en leur offrant les témoignages et conseils des promotions précédentes.
+
+Pour ceux qui envisagent de partir étudier à l’étranger en Ing5, l’association met chaque année en place l’International Meeting, un évènement au cours duquel les étudiants sont invités à rencontrer les différents représentants des universités partenaires de l’ECE. Des vidéo-conférences avec des étudiants ECE étant en train d’étudier à l’étranger, sont également programmées pour finir de répondre à toutes les questions.
+
+En parallèle de ça, ECE International organise tout au long de l’année des évènements au sein de l’école, tels que le Nouvel An Chinois, le concours InterRail, etc.
+
+Pour la première fois cette année, ECE International se diversifie et propose des voyages organisés aux étudiants de l’ECE à un prix défiant toute concurrence.
+
+Internationalement,
+
+ECE International
+		</string>
+		<key>Type</key>
+		<string>Association</string>
+		<key>Image</key>
+		<string>logoECEInternational.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>ECE-Entreprises</string>
+		<key>Description</key>
+		<string>ECE-Entreprises à pour but de créer, de développer et d&apos;entretenir des partenariats forts entre le monde de l&apos;Entreprise et les étudiants à travers de nombreux évènements organisés en fonction des besoins de chacun : Simulation d&apos;Entretiens de Recrutement, Job Dating, Forum des Anciens, Concours de l&apos;innovation Technologique…
+ECE-Entreprises a aussi pour but de faire découvrir aux entreprises la richesse des plus de 1001 parcours possibles de l&apos;ECE.
+Venez faire un tour sur le site : 
+http://ece-entreprises.ece.fr/
+ 
+Suivez nos événements sur notre page Facebook!
+</string>
+		<key>Type</key>
+		<string>Association</string>
+		<key>Image</key>
+		<string>logoECEENTREPRISES.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Les Caves ECE</string>
+		<key>Description</key>
+		<string>L&apos;association Les Caves ECE est l&apos;association oenologique de l&apos;école. Elle permet à qui le désire de (re)découvrir le patrimoine de notre beau pays à travers des dégustations de vins et bières.Nous apportons également notre aide aux différentes associations de l&apos;école afin organiser des cocktails et pots tels que le pot de l&apos;International Meeting avec ECE International ou le pot de lancement du Popol Déchainé n°2 avec L&apos;Expression. Le bureau des Caves regroupe des personnes issues des quatre coins de France ayant en commun une envie immuable de partager de purs moments dans une ambiance toujours conviviale !! Rendez vous sur notre blog au plus vite : http://lescavesece.blogspot.com </string>
+		<key>Type</key>
+		<string>Association</string>
+		<key>Image</key>
+		<string>logoLESCAVESECE.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>ECE Finance</string>
+		<key>Description</key>
+		<string>ECE Finance a pour but d’initier les étudiants de l’ECE à la finance de marché à travers des évènements comme des conférences, des visites et ses fameux jeux boursiers.</string>
+		<key>Type</key>
+		<string>Association</string>
+		<key>Image</key>
+		<string>logoECEFINANCE.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Unis Pour Agir</string>
+		<key>Description</key>
+		<string>L&apos;association humanitaire de l&apos;ECE Paris. Des projets partout à travers le monde! Et les grands évènements français au sein de notre belle école d&apos;ingénieurs! upa-bureau@ece.fr</string>
+		<key>Type</key>
+		<string>Association</string>
+		<key>Image</key>
+		<string>logoUPA.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>TUTORAT</string>
+		<key>Description</key>
+		<string>Le Tutorat est l&apos;association d&apos;entraide inter-promotions de l&apos;ECE. Elle permet d&apos;aider et de soutenir les élèves de l&apos;école dans leur parcours scolaire quel que soit leur niveau. Soutenue par l&apos;équipe pédagogique, l&apos;association aspire à aider un maximum d&apos;élèves afin de prévenir l&apos;échec scolaire.</string>
+		<key>Type</key>
+		<string>Association</string>
+		<key>Image</key>
+		<string>logoTUTORAT.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>L&apos;Expression</string>
+		<key>Description</key>
+		<string>Journaux, site web, Lives, ... Les petites plumes de L&apos;Expression sont partout à l&apos;ECE et t&apos;offrent chaque semaine des nouvelles fraîches et bien écrites. Rejoins dès maintenant l&apos;équipe des journalistes en herbe, présidée par notre cher Popol !</string>
+		<key>Type</key>
+		<string>Association</string>
+		<key>Image</key>
+		<string>logoLEXPRESSION.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>JEECE</string>
+		<key>Description</key>
+		<string> JEECE, Junior-Entreprise de l&apos;ECE est une association qui propose aux étudiants de réaliser ou de superviser des missions rémunérées dans les domaines de compétences de l&apos;école (site web ou application mobile par exemple) pour des entreprises. Si tu désires avoir plus d&apos;infos sur JEECE, n&apos;hésite pas : envoie un mail à contact@jeece.fr !  </string>
+		<key>Type</key>
+		<string>Association</string>
+		<key>Image</key>
+		<string>logoJEECE.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Com&apos;ART</string>
+		<key>Description</key>
+		<string>
+Passionné par les Arts, les Comics et les Mangas ?!Ce club est fait pour toi ! Initiation au monde des Comics et des Arts.
+Un club explosif, prés à tous pour réaliser des chefs œuvres aussi bien techniques qu’intellectuels. 
+Entre vernissages et expositions de jours comme de nuits, avec une ambiance à la fois culturel et fêtarde ce club saura te faire frémir.
+
+Sorties Culturelles et Animées, Ateliers de créations, Création de supports  pour  l&apos;association et encore pleins d&apos;autres surprises qui sauront te ravir!</string>
+		<key>Type</key>
+		<string>Association</string>
+		<key>Image</key>
+		<string>logoCOMART.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Equipe Système</string>
+		<key>Description</key>
+		<string>L&apos;ES est le lien privilégié entre les étudiants et les administrateurs réseaux. Nous pouvons débloquer tes mdp, t&apos;aider à te connecter au réseau, à installer des logiciels et à utiliser toutes les ressources du parc informatique de l&apos;ECE ! pour plus d&apos;informations : http://es.ece.fr </string>
+		<key>Type</key>
+		<string>Association</string>
+		<key>Image</key>
+		<string>logoES.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Club Airsoft</string>
+		<key>Description</key>
+		<string>Le Club Airsoft est un club alliant bonne humeur, fairplay et camaraderie. Ses membres sont présents pour faire découvrir l&apos;airsoft au sein de l&apos;ECE. Le club organise des parties découvertes régulièrement, et ce pour une somme défiant toute concurrence !</string>
+		<key>Type</key>
+		<string>Club</string>
+		<key>Image</key>
+		<string>logoClubAirsoft.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>ECEBORG</string>
+		<key>Description</key>
+		<string> Electronik is magik ! Créée afin de participer à la Coupe de France de Robotique, Eceborg compte aujourd’hui plus de 40 membres actifs. Chaque année, l’association met un point d&apos;honneur à poursuivre son ouverture vers de nouveaux projets orientés électronique et robotique. Elle offre par ailleurs de nombreuses formations sur l’utilisation de matériels et logiciels. Il y en a pour tous les goûts, toutes les envies et tous les niveaux, chacun trouvant la formation adaptée à ses besoins. http://eceborg.ece.fr - Contact : eceborg@ece.fr  </string>
+		<key>Type</key>
+		<string>Association</string>
+		<key>Image</key>
+		<string>logoECEBORG.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string> Bible &amp; Discussions</string>
+		<key>Description</key>
+		<string> 
+Le club Bible &amp; Discussions organise des sessions hebdomadaires au cours desquelles chacun aura la possibilité de discuter sur le passage de la Bible qui sera proposé ce jour là. L&apos;objectif étant de se construire son propre point de vue et ce, dans un contexte non religieux, non cultuel, dans le respect des convictions de chacun.
+
+
+Pas de religion, pas de messe, pas de blabla théologique...En revanche, beaucoup d’échanges sans tabou, des discussions ouvertes et libres sur différents thèmes de la Bible... 
+
+N’hésite pas à nous poser toutes les questions à : bible&amp;discussions-bureau@ece.fr 
+		</string>
+		<key>Type</key>
+		<string>Club</string>
+		<key>Image</key>
+		<string>logoBIBLEETDISCUSSIONS.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>NGA</string>
+		<key>Description</key>
+		<string>
+Votre association gaming au sein de l&apos;école =) Soyez toujours plus nombreux, jouez pour votre bien!! rejoignez nous et consultez les news sur: nga.ece.fr </string>
+		<key>Type</key>
+		<string>Association</string>
+		<key>Image</key>
+		<string>logoNGA.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>ECEApprentis</string>
+		<key>Description</key>
+		<string> Créée par des apprentis, ECE Apprentis accueille étudiants apprentis et initiaux. Elle a pour vocation de répondre aux questions des étudiants actuels ou futurs sur l&apos;apprentissage au sein de l&apos;ECE et d&apos;organiser les événements scolaires qui ponctuent l&apos;apprentissage. On s&apos;occupe également de faire le lien avec les autres associations afin de proposer des événement tout au long de l&apos;année. Interlocuteur privilégié des apprentis, l&apos;association est à l&apos;affût d&apos;éventuelles opportunités de stages ou d&apos;apprentissage au sein des entreprises partenaires  </string>
+		<key>Type</key>
+		<string>Association</string>
+		<key>Image</key>
+		<string>logoECEApprentis.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>ECE Dance Club</string>
+		<key>Description</key>
+		<string>Club de danse de l&apos;ECE, particulièrement axé sur le Hip Hop (new style/chorégraphique), Breakdance et Salsa </string>
+		<key>Type</key>
+		<string>Club</string>
+		<key>Image</key>
+		<string>logoECEDance.png</string>
+	</dict>
+</array>
+</plist>

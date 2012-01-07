@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ImageName</key>
+		<string></string>
+		<key>Type</key>
+		<string>locaux</string>
+		<key>Name</key>
+		<string>QG</string>
+		<key>Latitude</key>
+		<string>48.851967</string>
+		<key>Longitude</key>
+		<string>2.287066</string>
+		<key>Description</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string></string>
+		<key>Type</key>
+		<string>locaux</string>
+		<key>Name</key>
+		<string>RG</string>
+		<key>Latitude</key>
+		<string>48.854477</string>
+		<key>Longitude</key>
+		<string>2.325599</string>
+		<key>Description</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string></string>
+		<key>Type</key>
+		<string>locaux</string>
+		<key>Name</key>
+		<string>Cnam</string>
+		<key>Latitude</key>
+		<string>48.866804</string>
+		<key>Longitude</key>
+		<string>2.354615</string>
+		<key>Description</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>Decaze.png</string>
+		<key>Type</key>
+		<string>partenaire</string>
+		<key>Name</key>
+		<string>Décaze</string>
+		<key>Latitude</key>
+		<string>48.851331</string>
+		<key>Longitude</key>
+		<string>2.29228</string>
+		<key>Description</key>
+		<string>Happy Hour tous les jours pour les élèves de l’ECE ! 3,5€ la pinte, 3€ le kir, 5€ le cocktail…
+Et le mercredi, c’est la récré ! L’happy hour se prolonge jusqu’à pas d’heure pour toujours plus de saveurs !</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>okito.png</string>
+		<key>Type</key>
+		<string>partenaire</string>
+		<key>Name</key>
+		<string>Okito</string>
+		<key>Latitude</key>
+		<string>48.85287</string>
+		<key>Longitude</key>
+		<string>2.28683</string>
+		<key>Description</key>
+		<string>-10% sur le menu du soir !
+Le nouveau jap illimité sur les quais est un peu blindé le midi, mais le soir dans une ambiance chaleureuse il est bon de déguster des sushis à prix réduits !</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>samaya.png</string>
+		<key>Type</key>
+		<string>partenaire</string>
+		<key>Name</key>
+		<string>Samaya</string>
+		<key>Latitude</key>
+		<string>48.853294</string>
+		<key>Longitude</key>
+		<string>2.290306</string>
+		<key>Description</key>
+		<string>-10% sur l’ensemble de la carte, ce libanais propose des sandwichs et formules variées à prix réduits !</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>pizza_di_napoli.png</string>
+		<key>Type</key>
+		<string>partenaire</string>
+		<key>Name</key>
+		<string>Pizza Di Napoli</string>
+		<key>Latitude</key>
+		<string>48.852531</string>
+		<key>Longitude</key>
+		<string>2.2911</string>
+		<key>Description</key>
+		<string>Pizza + boisson (canette coca) à emporter
+10 euros sur les pizzas rome, foggia, catane, florence, rimini, capri, trapani et renna
+OU -2€ sur les pizzas à emporter (qui sont environ à 10€) ?
+Le patron et la patronne, couple d’italiens adorables se feront le plaisir de te concocter la pizza de ton choix après un appel passé au 01 45 77 05 06 ! Quoi de mieux les soirs de nocturne à l’ECE !?</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>LeLevandeGrenelle.png</string>
+		<key>Type</key>
+		<string>partenaire</string>
+		<key>Name</key>
+		<string>Le levain de Grenelle</string>
+		<key>Latitude</key>
+		<string>48.850442</string>
+		<key>Longitude</key>
+		<string>2.294362</string>
+		<key>Description</key>
+		<string>-10% sur toutes les formules déjeuner
+Enfin une bonne boulangerie du côté de QG !!! Du choix, jolie baguette et bons produits !</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>pizza_amalfi.png</string>
+		<key>Type</key>
+		<string>partenaire</string>
+		<key>Name</key>
+		<string>Pizza Amalfi</string>
+		<key>Latitude</key>
+		<string>48.850668</string>
+		<key>Longitude</key>
+		<string>2.291808</string>
+		<key>Description</key>
+		<string>-10% sur l’ensemble de la carte
+Si tu cherches un endroit un peu cosy pour manger italien, cet endroit est fait pour toi !</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>Japan_Daily.png</string>
+		<key>Type</key>
+		<string>partenaire</string>
+		<key>Name</key>
+		<string>Japan Daily</string>
+		<key>Latitude</key>
+		<string>48.84718</string>
+		<key>Longitude</key>
+		<string>2.285156</string>
+		<key>Description</key>
+		<string>-10% sur l’ensemble de la carte
+Ce japonais propose des pièces à emporter à prix cassés ! Appelle le … pour commander.</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>Eric_Kayser.png</string>
+		<key>Type</key>
+		<string>partenaire</string>
+		<key>Name</key>
+		<string>Kayser</string>
+		<key>Latitude</key>
+		<string>48.847025</string>
+		<key>Longitude</key>
+		<string>2.284942</string>
+		<key>Description</key>
+		<string>On attend encore le partenariat !! Ca arrive !!!
+Du côté de Charles Michel viens chercher ton sandwich avant de te poser au parc !</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>moment_gourmand.png</string>
+		<key>Type</key>
+		<string>partenaire</string>
+		<key>Name</key>
+		<string>Un Moment Gourmand</string>
+		<key>Latitude</key>
+		<string>48.865505</string>
+		<key>Longitude</key>
+		<string>2.355666</string>
+		<key>Description</key>
+		<string>Menus spécial ECE de 3,5€ à 7€ !
+Peu de temps pour déjeuner avant de retourner en cours ? Pense à cette boulangerie sympa dans laquelle on peut déguster sandwichs, croques mais aussi pates et hot dogs !</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>au_bon_pho.png</string>
+		<key>Type</key>
+		<string>partenaire</string>
+		<key>Name</key>
+		<string>Au Bon Pho</string>
+		<key>Latitude</key>
+		<string>48.864785</string>
+		<key>Longitude</key>
+		<string>2.355731</string>
+		<key>Description</key>
+		<string>Boisson et café offert avec chaque menu
+Les spécialités laotiennes, vietnamiennes et thaïlandaises, c’est fait pour toi ? Ton BDE t’a concocté un partenariat avec ce vietnamien dans cette rue qui regorge de cuisine asiatique !</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>Hoki_Sushi.png</string>
+		<key>Type</key>
+		<string>partenaire</string>
+		<key>Name</key>
+		<string>Hoki Sushi</string>
+		<key>Latitude</key>
+		<string>48.865265</string>
+		<key>Longitude</key>
+		<string>2.35234</string>
+		<key>Description</key>
+		<string>Formule à volonté le midi pour 11,5€, http://www.hoki-sushi-paris.com/
+Parce que toi quand tu manges des sushi c’est à volonté, rendez-vous à midi pour tester les limites de ton estomac à petit prix !</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>LeCosy.png</string>
+		<key>Type</key>
+		<string>partenaire</string>
+		<key>Name</key>
+		<string>Le Cosy</string>
+		<key>Latitude</key>
+		<string>48.865294</string>
+		<key>Longitude</key>
+		<string>2.352555</string>
+		<key>Description</key>
+		<string>Happy hour prolongé le mardi jusqu »à 23h, 4€ la pinte, 5€ le cocktail bien comme il faut http://fr-fr.facebook.com/pages/Le-Cosy/130302500322359
+Envie d’une bière entre potes après les cours ? Viens découvrir le Cosy, bar très cosy tenu par un patron portugais des plus cosy !</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>La_Mi_Do_Re.png</string>
+		<key>Type</key>
+		<string>partenaire</string>
+		<key>Name</key>
+		<string>Midoré</string>
+		<key>Latitude</key>
+		<string>48.866451</string>
+		<key>Longitude</key>
+		<string>2.35131</string>
+		<key>Description</key>
+		<string>Formule ECE à 5€
+Budget serré ? Peu de temps pour déjeuner ? Alors rends-toi chez Midoré !</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>elgi.png</string>
+		<key>Type</key>
+		<string>partenaire</string>
+		<key>Name</key>
+		<string>Elgi</string>
+		<key>Latitude</key>
+		<string>48.867735</string>
+		<key>Longitude</key>
+		<string>2.354636</string>
+		<key>Description</key>
+		<string>Une boisson OU un dessert offert pour tout achat d’un menu, http://www.elgi.fr/
+Envie de bien manger à un prix raisonnable ? Ce petit restaurant bobo propose des produits de très bonne qualité, pour une petite faim (3 ingrédients mais déjà très copieux !) à 7€ ou encore une grosse à 9€ (pour les gourmands !)</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>pasta_cosy.png</string>
+		<key>Type</key>
+		<string>partenaire</string>
+		<key>Name</key>
+		<string>Pasta Cosy</string>
+		<key>Latitude</key>
+		<string>48.867834</string>
+		<key>Longitude</key>
+		<string>2.355258</string>
+		<key>Description</key>
+		<string>Menu pate+boisson : 5€, menu pate+boisson+dessert : 7,5€ Plus de réduction si arrivée avant 12h30 ! http://www.pastacosy.com/
+Nouveau dans le quartier, Pasta Cosy te propose des pates à toutes saveurs !</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>hippo.png</string>
+		<key>Type</key>
+		<string>partenaire</string>
+		<key>Name</key>
+		<string>Hippopotamus</string>
+		<key>Latitude</key>
+		<string>48.869472</string>
+		<key>Longitude</key>
+		<string>2.354808</string>
+		<key>Description</key>
+		<string>-10% le midi, en parallèle de la réduc proposée à tous les étudiants (-20% sur certaines formules) http://www.hippopotamus.fr/
+Envie d’une viande ? Hippopotamus t’ouvre ses portes avec des réducs’ tous les midis !</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>DS.png</string>
+		<key>Type</key>
+		<string>partenaire</string>
+		<key>Name</key>
+		<string>Coiffeur David Sauvage</string>
+		<key>Latitude</key>
+		<string>48.854918</string>
+		<key>Longitude</key>
+		<string>2.326334</string>
+		<key>Description</key>
+		<string>35€ seulement pour ces demoiselles les jeudi après-midi ! Un des salons les plus huppés de Paris…</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>flams.png</string>
+		<key>Type</key>
+		<string>partenaire</string>
+		<key>Name</key>
+		<string>Flams</string>
+		<key>Latitude</key>
+		<string>48.842661</string>
+		<key>Longitude</key>
+		<string>2.320175</string>
+		<key>Description</key>
+		<string>Formule spéciale ECE ! http://www.flams.fr/</string>
+	</dict>
+</array>
+</plist>
